@@ -1,6 +1,6 @@
 # Realm Database React Native
 
-Foobar is a Python library for dealing with word pluralization.
+This repo is a example project for local db with realm.
 
 ## Installation
 
